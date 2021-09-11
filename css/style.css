@@ -589,9 +589,10 @@ footer{
   font-size: 0.8em;
 }
 .news article .media .tags a::before {
-  content: "";
-  font-family: Ionicons;
+  font-family: FontAwesome;
+  content: "\f02b";
   margin-right: 0.5em;
+  font-size: 10px;
 }
 .news article header {
   display: flex;
