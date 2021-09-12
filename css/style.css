@@ -1435,7 +1435,3 @@ textarea:hover {
   }
 }
 */
-
-.smooth-scroll{
-  touch-action: none;
-}

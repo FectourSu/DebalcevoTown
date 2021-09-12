@@ -5,3 +5,12 @@ $('#burger').on('click', function(){
   $('footer').toggleClass('none');
   $('body').toggleClass('stop-scrolling')
 });
+// $('body, html').ready(function () {
+//   $(".video-gallery").magnificPopup({
+//     delegate: "a",
+//     type: "iframe",
+//     gallery: {
+//       enabled: true
+//     }
+//   });
+// });
