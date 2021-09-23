@@ -250,9 +250,7 @@ header{
 
 /*scroll fixed*/
 .none{display: none;}
-html{
-    scroll-behavior: smooth;
-}
+
 body{
     overflow-x: hidden;
 }
